@@ -14,7 +14,7 @@ This theme is maintained by the following person(s) and a bunch of [awesome cont
 
 [![Luis Pflamminger](https://github.com/luispflamminger.png?size=100)](https://github.com/luispflamminger) |
 --- |
-[Zeno Rocha](https://github.com/luispflamminger) |
+[Luis Pflamminger](https://github.com/luispflamminger) |
 
 ## License
 
