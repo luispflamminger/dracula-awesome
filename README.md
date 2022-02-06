@@ -1,20 +1,20 @@
-# Dracula for [Foobar](https://foobar.com)
+# Dracula for [Awesome WM](https://awesomewm.org/)
 
-> A dark theme for [Foobar](https://foobar.com).
+> A dark theme for [awesome window manager](https://awesomewm.org/).
 
 ![Screenshot](./screenshot.png)
 
 ## Install
 
-All instructions can be found at [draculatheme.com/foobar](https://draculatheme.com/foobar).
+All instructions can be found at [draculatheme.com/awesome](https://draculatheme.com/awesome).
 
 ## Team
 
-This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/foobar/graphs/contributors).
+This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/awesome/graphs/contributors).
 
-[![Zeno Rocha](https://github.com/zenorocha.png?size=100)](https://github.com/zenorocha) |
+[![Luis Pflamminger](https://github.com/luispflamminger.png?size=100)](https://github.com/luispflamminger) |
 --- |
-[Zeno Rocha](https://github.com/zenorocha) |
+[Zeno Rocha](https://github.com/luispflamminger) |
 
 ## License
 
